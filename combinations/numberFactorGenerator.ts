@@ -1,4 +1,4 @@
-/// Get factos numbers of a given number
+/// Get factors numbers of a given number
 function* numberFactorGenerator(number: number): Generator<number> {
   let i: number = 0;
   while (i <= number) {
