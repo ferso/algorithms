@@ -11,4 +11,4 @@ const calculateFactorial = (number: number): number => {
 };
 
 
-calculateFactorial(9);  //3628800
+calculateFactorial(9);  ///3628800
